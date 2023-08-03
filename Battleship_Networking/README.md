@@ -1,6 +1,6 @@
 # Battleship Game over Client-Server Network
 
-This project is a two-player battleship game played over a tcp network using the command window and ascii
+This project is a two-player battleship game played over a tcp network using the command window and ascii.
 Specifically, it uses a TCP networking connection as it excels at supporting and connecting two players
 
 *Note: This was a group project done with two other people making it a total group size of three.*
