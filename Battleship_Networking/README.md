@@ -15,4 +15,4 @@ Specifically, it uses a TCP networking connection as it excels at supporting and
 - Server sided code for battleship to be played
 - Server would need to be launched first to allow clients to connect
 ### Battleship_Report.pdf
-- This is the writeen report for this project that goes into more detail regarding this project
+- This is the written report for this project that goes into more detail regarding this project
