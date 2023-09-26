@@ -5,7 +5,7 @@ Specifically, it uses a TCP networking connection as it excels at supporting and
 
 *Note: This was a group project done with two other people making it a total group size of three.*
 
-### Local_Battleship,py
+### Local_Battleship.py
 - This is code for playing battleship on a local machine only
 - Used to make the logic and all the functions for playing battleship to more easily make the networked version
 ### tcp_client.py
