@@ -1,4 +1,4 @@
-# Miscellaneous Projects
+# Miscellaneous-Projects
 
 This directory contains other projects.
 
