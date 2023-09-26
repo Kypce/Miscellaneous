@@ -1,6 +1,6 @@
 # Mockup Bus App
 
-This project fully details a project proposal containing information such as use cases, scope, software architectures, and UI/UX design.
+This project fully details a project proposal for a bus tracking app containing information such as use cases, scope, software architectures, and UI/UX design.
 
 ### Overall Description
 - This document outlines an improvement on the current UM bus tracking web application (https://www.umshuttles.com/map) by turning into a more user-friendly mobile app.
