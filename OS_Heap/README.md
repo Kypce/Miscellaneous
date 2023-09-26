@@ -14,6 +14,6 @@ This project implements the concept of how heaps function. The heap is created t
   - In-use chunks: Organized by its size, the data, its size, and the code (98989898).
   - Free chunks: Organized by its size, the previous free chunk location, the next free chunk location, its size, and the code (12121212).
 
-<img width="619" alt="image" src="https://github.com/Kypce/Miscellaneous-Projects/assets/69166331/3f807962-8f0c-45a1-8200-3fc7248921b9">
+  <img width="619" alt="image" src="https://github.com/Kypce/Miscellaneous-Projects/assets/69166331/3f807962-8f0c-45a1-8200-3fc7248921b9">
 
 - The code is used to easily tell if a chunk is free or used without having to read and look at the format of the entire chunk.
